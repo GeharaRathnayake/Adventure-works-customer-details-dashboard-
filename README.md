@@ -13,7 +13,8 @@ This dashboard provides actionable insights into customer behavior, product perf
 - Customer segmentation by Gender, Age, Continent, and Country
 - Performance against order targets (Gauge visual)
 - Interactive filters: Continent, Year, Product Category, Gender
-  | Metric                  | Value            | Key Insight                                      |
+  
+| Metric                  | Value            | Key Insight                                      |
 |-------------------------|------------------|--------------------------------------------------|
 | Total Orders            | **11,724**       | Steady volume with strong seasonal peaks         |
 | Total Revenue           | **$9,708,245**   | Driven by high-margin accessories                |
@@ -22,6 +23,7 @@ This dashboard provides actionable insights into customer behavior, product perf
 | Top Revenue Product     | Hitch Rack – 4-Bike | $21.2M from just 183 orders → high value         |
 | Fastest Growing Period  | 2016 → 2017      | ~50% YoY revenue jump after mid-2016 dip         |
 | Target Achievement      | Only **50%**     | Orders significantly below goal                  |
+
 ### Critical Business Questions Answered
 - Sales grew strongly from 2015 to 2017, with a noticeable dip mid-2016 followed by a sharp rebound.
 - North America dominates; Europe & Pacific represent clear growth opportunities.
