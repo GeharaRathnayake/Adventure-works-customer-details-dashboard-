@@ -1,10 +1,12 @@
-# Adventure-works-customer-details-dashboard-
+<img width="1167" height="662" alt="Adventure Works Customer Details Dashboard" src="https://github.com/user-attachments/assets/2c6dab70-b723-4ccb-83b1-c314367dd62f" /># Adventure-works-customer-details-dashboard-
 Fully interactive Power BI dashboard exploring Adventure Works customer sales (2015–2017). Features revenue trends, geographic insights, product performance ranking, and target tracking, built with best-practice DAX, star-schema modeling, and optimized for Power BI Service.
 ## Dashboard Overview
 This dashboard provides actionable insights into customer behavior, product performance, and geographic trends for Adventure Works Cycles.
 ## Dataset Source
 <a href=https://github.com/GeharaRathnayake/Adventure-works-customer-details-dashboard-/tree/main/Lab%20sheet%20data>Lab Sheet Data</a>
-## 
+## Dashboard
+<img width="1167" height="662" alt="Adventure Works Customer Details Dashboard" src="https://github.com/user-attachments/assets/5d478cf3-435c-47f1-88f3-7e1078ef4748" />
+
 
 ### Key Insights & Visuals Included
 - Total Orders: **11,724** | Total Revenue: **$9.7M+**
@@ -37,6 +39,16 @@ This dashboard provides actionable insights into customer behavior, product perf
 3. **Product Focus**: Double down on high-margin accessories (Hitch Racks, Tires & Tubes).
 4. **Seasonality Leverage**: Capitalize on summer peaks (June–July) with promotions to close target gaps.
 5. **Cloud Monitoring**: Deploy this dashboard to Power BI Service with scheduled refresh + alerts for real-time tracking.
+## Dashboard Visualizations (Fully Interactive)
+
+| Visualization                  | Type               | Key Metrics Shown                                  | Purpose / Insight Delivered                              |
+|--------------------------------|--------------------|----------------------------------------------------|-----------------------------------------------------------|
+| Total Sales by Country         | Filled Map         | Total Sales (color saturation + bubble size)      | Instantly spot top-performing countries & growth opportunities |
+| Sales, Gross Margin & Margin % over Time | Area + Line Chart  | Total Sales, Gross Margin ($), Margin %            | Track profitability trends and seasonality in one view     |
+| Gross Margin by Product        | Donut Chart        | Gross Margin ($) by individual Product             | Highlight most profitable products at a glance             |
+| Gross Margin by Year           | Pie Chart          | Gross Margin split by Year                         | Quickly compare year-on-year profitability contribution    |
+| Total Sales by Segment         | Horizontal Bar Chart | Total Sales by Customer Segment (Consumer, Corporate, etc.) | Identify which customer segment drives revenue            |
+| Sales & Margin % by Country    | Clustered Column Chart | Total Sales + Margin % side-by-side per country   | Compare revenue volume vs. profitability across regions   |
 
 ### Highlights
 - Built using **Power BI Desktop** + optimized for **Power BI Service (cloud)**
